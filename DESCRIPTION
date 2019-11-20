@@ -2,8 +2,8 @@ Package: pd.mirna.4.1
 Title: Platform Design Info for Affymetrix miRNA-4_1
 Description: Platform Design Info for Affymetrix miRNA-4_1
 Version: 0.1
-Author: ZaRo
-Maintainer: ZaRo <soumyabrata.ghosh@uni.lu>
+Author: SoumyabG
+Maintainer: SoumyabG <soumyabrata.ghosh@uni.lu>
 LazyLoad: yes
 Depends: R (>= 3.2.0),
 	 Biostrings (>= 2.35.12),
