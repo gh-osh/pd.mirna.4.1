@@ -1,0 +1,19 @@
+Package: pd.mirna.4.1
+Title: Platform Design Info for Affymetrix miRNA-4_1
+Description: Platform Design Info for Affymetrix miRNA-4_1
+Version: 0.1
+Author: ZaRo
+Maintainer: ZaRo <soumyabrata.ghosh@uni.lu>
+LazyLoad: yes
+Depends: R (>= 3.2.0),
+	 Biostrings (>= 2.35.12),
+         methods,
+         RSQLite (>= 1.0.0),
+         oligoClasses (>= 1.29.6),
+         oligo (>= 1.31.5),
+         DBI (>= 0.3.1),
+         IRanges (>= 2.1.43),
+         S4Vectors (>= 0.5.22)
+License: Artistic-2.0
+biocViews: AnnotationData, oligo
+ZipData: no

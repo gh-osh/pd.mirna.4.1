@@ -1,0 +1,7 @@
+import(DBI)
+import(RSQLite)
+export(
+       'pd.mirna.4.1'
+       )
+importFrom("Biostrings", "DNAStringSet")
+importFrom("S4Vectors", "DataFrame")
